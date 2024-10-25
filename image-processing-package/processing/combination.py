@@ -13,5 +13,5 @@ def find difference(image1, image2):
     return normalized_difference_image
 
 def transfer_histogram(image1, image2):
-    match_image = match_histograms(image1, image2):
+    match_image = match_histograms(image1, image2, multichannel = True)
     return match_image
