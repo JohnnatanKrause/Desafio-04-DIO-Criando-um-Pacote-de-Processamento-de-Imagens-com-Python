@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="package_name",
+    name="meu_pacote_unico",
     version="0.0.1",
     author="Johnnatan_Krause",
     author_email="johnnatankrause@gmail.com",
