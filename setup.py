@@ -14,7 +14,7 @@ setup(
     description="My short description",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/JohnnatanKrause/Desafio-04-DIO-Criando-um-Pacote-de-Processamento-de-Imagens-com-Pythonmy_github_repository_project_link",
+    url="https://github.com/JohnnatanKrause/Desafio-04-DIO-Criando-um-Pacote-de-Processamento-de-Imagens-com-Python",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
